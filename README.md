@@ -1,7 +1,7 @@
 Languages:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,php,html,css,swift,c,py" />
+    <img src="https://skillicons.dev/icons?i=js,ts,php,html,css" />
   </a>
 </p>
 FrontEnd:
